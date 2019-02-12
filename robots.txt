@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ughokoh.joseph-red-cape.com/sitemap.xml
